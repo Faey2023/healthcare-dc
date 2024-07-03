@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Alice Johnson",
+    "title": "Excellent Service",
+    "reviewText": "The healthcare team was incredibly professional and caring. They made me feel at ease throughout my entire visit.",
+    "profession": "Teacher",
+    "image": "https://i.ibb.co/t3ZtgPJ/user-1.jpg",
+    "rating": 5
+  },
+  {
+    "name": "Michael Smith",
+    "title": "Highly Recommend",
+    "reviewText": "I had a great experience with the doctors here. They were thorough and took the time to explain everything clearly.",
+    "profession": "Software Engineer",
+    "image": "https://i.ibb.co/Xzmxr6D/user-2.jpg",
+    "rating": 4
+  },
+  {
+    "name": "Emily Davis",
+    "title": "Caring Staff",
+    "reviewText": "The staff at this healthcare center are very compassionate and attentive. I felt well cared for during my treatment.",
+    "profession": "Nurse",
+    "image": "https://i.ibb.co/2ZhqHYG/user-3.jpg",
+    "rating": 5
+  },
+  {
+    "name": "David Brown",
+    "title": "Great Experience",
+    "reviewText": "From the reception to the doctors, everyone was friendly and professional. The facility is clean and well-maintained.",
+    "profession": "Business Analyst",
+    "image": "https://i.ibb.co/t3ZtgPJ/user-1.jpg",
+    "rating": 4
+  },
+  {
+    "name": "Sophia Wilson",
+    "title": "Top-notch Care",
+    "reviewText": "I received excellent care at this healthcare center. The doctors are knowledgeable and the staff is very supportive.",
+    "profession": "Marketing Specialist",
+    "image": "https://i.ibb.co/Xzmxr6D/user-2.jpg",
+    "rating": 5
+  },
+  {
+    "name": "James Lee",
+    "title": "Professional and Efficient",
+    "reviewText": "The healthcare services provided were very professional and efficient. I highly recommend this center to others.",
+    "profession": "Architect",
+    "image": "https://i.ibb.co/2ZhqHYG/user-3.jpg",
+    "rating": 4
+  }
+]

@@ -24,16 +24,19 @@ const Service = () => {
         </div>
         <div className="relative">
           <img src={img} alt="" className="rounded-[24px]" />
-          <div className="absolute w-[321px] h-36 bg-primary-navy opacity-60 text-primary-white rounded-[32px] p-5 space-y-3 bottom-4 left-4">
-            <h1 className="text-xl font-medium">Our mission is simple</h1>
-            <div className="flex">
-              <p className="text-sm">
-                To provide high-quality healthcare services that are accessible,
-                personalized, and patient-centered.
-              </p>
-              <button className="rounded-full w-12 h-8 bg-primary-yellow p-2 text-primary-white">
-                <TbArrowUpRight />
-              </button>
+          <div className="absolute w-[321px] h-36 rounded-[32px] bottom-4 left-4">
+            <div className="absolute inset-0 bg-primary-navy opacity-60 rounded-[32px]" />
+            <div className="relative p-5 space-y-3 text-primary-white">
+              <h1 className="text-xl font-medium">Our mission is simple</h1>
+              <div className="flex justify-between items-center">
+                <p className="text-sm">
+                  To provide high-quality healthcare services that are
+                  accessible, personalized, and patient-centered.
+                </p>
+                <button className="rounded-full w-12 h-8 bg-primary-yellow p-2 text-primary-white flex justify-center items-center">
+                  <TbArrowUpRight />
+                </button>
+              </div>
             </div>
           </div>
         </div>
@@ -41,31 +44,37 @@ const Service = () => {
       <div className="flex flex-col md:flex-row justify-evenly">
         <div className="relative">
           <img src={img2} alt="" className="rounded-[24px]" />
-          <div className="absolute w-[321px] h-36 bg-primary-navy opacity-60 text-primary-white rounded-[32px] p-5 space-y-3 bottom-4 left-4">
-            <h1 className="text-xl font-medium">Online Doctor Meet</h1>
-            <div className="flex">
-              <p className="text-sm">
-                Our surgeons are trained in the latest robotic surgical
-                techniques, which allow for greater precision.
-              </p>
-              <button className="rounded-full w-12 h-8 bg-primary-yellow p-2 text-primary-white">
-                <TbArrowUpRight />
-              </button>
+          <div className="absolute w-[321px] h-36 rounded-[32px] bottom-4 left-4">
+            <div className="absolute inset-0 bg-primary-navy opacity-60 rounded-[32px]" />
+            <div className="relative p-5 space-y-3 text-primary-white">
+              <h1 className="text-xl font-medium">Consultancy your health</h1>
+              <div className="flex justify-between items-center">
+                <p className="text-sm">
+                  Our surgeons are trained in the latest robotic surgical
+                  techniques, which allow for greater precision.
+                </p>
+                <button className="rounded-full w-12 h-8 bg-primary-yellow p-2 text-primary-white flex justify-center items-center">
+                  <TbArrowUpRight />
+                </button>
+              </div>
             </div>
           </div>
         </div>
         <div className="relative">
           <img src={img3} alt="" className="rounded-[24px]" />
-          <div className="absolute w-[321px] h-36 bg-primary-navy opacity-60 text-primary-white rounded-[32px] p-5 space-y-3 bottom-4 left-4">
-            <h1 className="text-xl font-medium">Consultancy your health</h1>
-            <div className="flex justify-between items-center">
-              <p className="text-sm">
-                Our surgeons are trained in the latest robotic surgical
-                techniques, which allow for greater precision.
-              </p>
-              <button className="rounded-full w-12 h-8 bg-primary-yellow p-2 text-primary-white flex justify-center items-center">
-                <TbArrowUpRight />
-              </button>
+          <div className="absolute w-[321px] h-36 rounded-[32px] bottom-4 left-4">
+            <div className="absolute inset-0 bg-primary-navy opacity-60 rounded-[32px]" />
+            <div className="relative p-5 space-y-3 text-primary-white">
+              <h1 className="text-xl font-medium">Consultancy your health</h1>
+              <div className="flex justify-between items-center">
+                <p className="text-sm">
+                  Our surgeons are trained in the latest robotic surgical
+                  techniques, which allow for greater precision.
+                </p>
+                <button className="rounded-full w-12 h-8 bg-primary-yellow p-2 text-primary-white flex justify-center items-center">
+                  <TbArrowUpRight />
+                </button>
+              </div>
             </div>
           </div>
         </div>

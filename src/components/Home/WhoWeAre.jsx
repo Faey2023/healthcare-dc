@@ -2,7 +2,7 @@ import YellowButton from "../Shared/Button/YellowButton";
 import img from "../../assets/Images/Rectangle 24.png";
 const WhoWeAre = () => {
   return (
-    <div className=" my-10 text-primary-navy flex gap-36">
+    <div className=" my-20 text-primary-navy flex gap-36">
       <div className="w-2/5 space-y-10">
         <span className=" border border-primary-navy  py-2 px-4 rounded-full">
           Who We Are

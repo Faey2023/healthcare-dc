@@ -8,3 +8,17 @@
     rgba(2, 0, 67, 0.47)
   );
 }
+
+.swiper-pagination {
+  position: inherit !important;
+}
+
+.mySwiper .swiper-pagination-bullet {
+  background-color: #000 !important;
+  margin-top: 20px !important;
+}
+
+.mySwiper .swiper-pagination-bullet-active {
+  background-color: #ffc637 !important;
+  margin-top: 20px !important;
+}

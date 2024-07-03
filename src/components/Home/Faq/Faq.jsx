@@ -11,7 +11,7 @@ const Faq = () => {
   };
 
   return (
-    <div className="px-3 md:px-20 my-10 space-y-7">
+    <div className="px-3 md:px-20 my-20 space-y-7">
       <span className="border border-primary-navy py-2 px-4 rounded-full">
         Faq
       </span>
