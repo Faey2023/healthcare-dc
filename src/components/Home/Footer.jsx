@@ -1,5 +1,5 @@
 import { FaFacebook, FaInstagram, FaLinkedin, FaYoutube } from "react-icons/fa";
-import logo from "../assets/Images/logo light.png";
+import logo from "../../assets/Images/logo light.png";
 const Footer = () => {
   return (
     <div className="bg-primary-navy text-primary-white p-10 md:p-20 w-full">

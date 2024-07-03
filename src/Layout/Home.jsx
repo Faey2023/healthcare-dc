@@ -1,5 +1,5 @@
-import Appointment from "../components/Appointment";
-import Footer from "../components/Footer";
+import Appointment from "../components/Home/Appointment";
+import Footer from "../components/Home/Footer";
 
 const Home = () => {
   return (
