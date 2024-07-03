@@ -1,5 +1,6 @@
 import Appointment from "../components/Home/Appointment";
 import Footer from "../components/Home/Footer";
+import Service from "../components/Home/Service";
 import WhoWeAre from "../components/Home/WhoWeAre";
 
 const Home = () => {
@@ -7,6 +8,7 @@ const Home = () => {
     <>
       <div className=" max-w-[1160px] mx-auto">
         <WhoWeAre />
+        <Service />
         <Appointment />
       </div>
       <Footer />

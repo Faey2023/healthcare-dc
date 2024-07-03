@@ -7,7 +7,7 @@ export default {
         "primary-navy": "#020043",
         "primary-yellow": "#FFC637",
         "primary-white": "#FFFFF5",
-        "secondary-blue": "#343268",
+        "secondary-navy": "#343268",
       },
     },
   },

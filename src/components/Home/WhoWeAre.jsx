@@ -22,7 +22,7 @@ const WhoWeAre = () => {
       </div>
       <div className="relative">
         <img src={img} alt="" className="" />
-        <div className="absolute w-[410px] h-48 -left-28 -bottom-1 bg-secondary-blue text-primary-white rounded-[32px] p-10 space-y-3">
+        <div className="absolute w-[410px] h-48 -left-28 -bottom-1 bg-secondary-navy text-primary-white rounded-[32px] p-10 space-y-3">
           <h1 className="text-2xl font-medium">Our mission is simple</h1>
           <p>
             To provide high-quality healthcare services that are accessible,
