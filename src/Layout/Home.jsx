@@ -1,14 +1,16 @@
 import Appointment from "../components/Home/Appointment";
 import Footer from "../components/Home/Footer";
+import WhoWeAre from "../components/Home/WhoWeAre";
 
 const Home = () => {
   return (
-    <div className="space-y-10">
+    <>
       <div className=" max-w-[1160px] mx-auto">
+        <WhoWeAre />
         <Appointment />
       </div>
       <Footer />
-    </div>
+    </>
   );
 };
 

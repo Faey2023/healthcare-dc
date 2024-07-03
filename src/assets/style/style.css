@@ -1,3 +1,10 @@
-.gradient-overlay {
+.app-gradient-overlay {
   background: linear-gradient(to right, rgba(2, 0, 67, 1), rgba(2, 0, 67, 0.3));
+}
+.banner-gradient-overlay {
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 193, 157, 0),
+    rgba(2, 0, 67, 0.47)
+  );
 }

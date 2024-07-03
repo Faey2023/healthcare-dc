@@ -12,7 +12,7 @@ const Appointment = () => {
         alt="Background Image"
         className="absolute h-full w-full object-cover rounded-[32px]"
       />
-      <div className="absolute h-full w-full gradient-overlay rounded-[32px]" />
+      <div className="absolute h-full w-full app-gradient-overlay rounded-[32px]" />
       <div className="relative">
         <img
           className="absolute right-8 top-10 md:top-16"

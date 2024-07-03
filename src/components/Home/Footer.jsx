@@ -2,7 +2,7 @@ import { FaFacebook, FaInstagram, FaLinkedin, FaYoutube } from "react-icons/fa";
 import logo from "../../assets/Images/logo light.png";
 const Footer = () => {
   return (
-    <div className="bg-primary-navy text-primary-white p-10 md:p-20 w-full">
+    <div className="mt-10 bg-primary-navy text-primary-white p-10 md:p-20 w-full">
       <img src={logo} alt="logo-dark" className="md:px-24 py-5 md:py-0" />
       <div className="flex flex-col md:flex-row justify-evenly">
         <div className="space-y-3 md:space-y-8 md:p-10">
