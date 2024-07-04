@@ -1,19 +1,13 @@
 import reviewData from "../../assets/data/review.json";
 import { FaStar } from "react-icons/fa6";
-
-//slide
-// Import Swiper React components
-import { Swiper, SwiperSlide } from "swiper/react";
-
-// Import Swiper styles
-import "swiper/css";
-import "swiper/css/pagination";
-
 import "../../assets/style/style.css";
 
-// import required modules
+//slide
+import { Swiper, SwiperSlide } from "swiper/react";
+import "swiper/css";
+import "swiper/css/pagination";
 import { Pagination, Autoplay } from "swiper/modules";
-import user from "../../assets/Images/user-1.jpg";
+
 const Testimonial = () => {
   return (
     <div className="px-3 md:px-20 my-20 space-y-7">
