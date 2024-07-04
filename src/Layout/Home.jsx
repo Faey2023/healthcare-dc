@@ -1,4 +1,5 @@
 import Appointment from "../components/Home/Appointment";
+import Banner from "../components/Home/Banner";
 import Faq from "../components/Home/Faq/Faq";
 import Footer from "../components/Home/Footer";
 import NavBar from "../components/Home/NavBar";
@@ -11,11 +12,12 @@ const Home = () => {
     <>
       <div className="max-w-6xl mx-auto">
         <NavBar />
-        <WhoWeAre />
-        <Service />
-        <Testimonial />
-        <Faq />
-        <Appointment />
+          <Banner />
+          <WhoWeAre />
+          <Service />
+          <Testimonial />
+          <Faq />
+          <Appointment />
       </div>
       <Footer />
     </>
